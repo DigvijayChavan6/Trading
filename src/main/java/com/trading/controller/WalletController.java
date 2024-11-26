@@ -4,6 +4,7 @@ import com.trading.model.Order;
 import com.trading.model.User;
 import com.trading.model.Wallet;
 import com.trading.model.WalletTransaction;
+import com.trading.service.OrderService;
 import com.trading.service.UserService;
 import com.trading.service.WalletService;
 import org.springframework.beans.factory.annotation.Autowired;
